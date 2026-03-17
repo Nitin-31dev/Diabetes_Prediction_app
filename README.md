@@ -9,18 +9,7 @@ The app is built using Streamlit and a trained Logistic Regression model.
 
 📊 Input Features
 The model takes the following inputs:
-Number of Pregnancies
-Glucose Level
-Blood Pressure
-Skin Thickness
-Insulin Level
-BMI
-Diabetes Pedigree Function
-Age
+Number of Pregnancies, Glucose Level, Blood Pressure, Skin Thickness, Insulin Level, BMI, Diabetes Pedigree Function, Age
 
 📌 Features
-User-friendly web interface
-Takes health inputs from users
-Predicts diabetes in real-time
-Lightweight and fast
-Deployed online for public access
+User-friendly web interface| Takes health inputs from users| Predicts diabetes in real-time| Lightweight and fast| Deployed online for public access
