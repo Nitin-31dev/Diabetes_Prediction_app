@@ -5,7 +5,6 @@ Created on Tue Mar 17 01:00:02 2026
 @author: nitin
 """
 
-from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 import numpy as np
